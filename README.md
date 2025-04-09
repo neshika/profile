@@ -9,7 +9,7 @@
 ИИ-ассистент взаимодействует с клиентами через диалоговый интерфейс. Вот пример его работы:
 
 
-<img src="https://github.com/neshika/profile/blob/main/%D0%B1%D0%BE%D1%82.JPG" alt="Пример работы ассистента" height="600" />
+<img src="https://github.com/neshika/profile/blob/main/%D0%B1%D0%BE%D1%82.JPG" alt="Пример работы ассистента" height= 50% />
 
 На схеме показан процесс обработки запросов клиента и интеграции с Google Календарь
 ---
